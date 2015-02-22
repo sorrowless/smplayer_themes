@@ -1,0 +1,45 @@
+<RCC>
+	<qresource prefix="/">
+		<file>kfaenza-mono/background.png</file>
+		<file>kfaenza-mono/close.png</file>
+		<file>kfaenza-mono/compact.png</file>
+		<file>kfaenza-mono/delete.png</file>
+		<file>kfaenza-mono/down.png</file>
+		<file>kfaenza-mono/dvd.png</file>
+		<file>kfaenza-mono/exit.png</file>
+		<file>kfaenza-mono/favorite.png</file>
+		<file>kfaenza-mono/forward10m.png</file>
+		<file>kfaenza-mono/forward10s.png</file>
+		<file>kfaenza-mono/forward1m.png</file>
+		<file>kfaenza-mono/fullscreen.png</file>
+		<file>kfaenza-mono/info.png</file>
+		<file>kfaenza-mono/minus.png</file>
+		<file>kfaenza-mono/mute.png</file>
+		<file>kfaenza-mono/next.png</file>
+		<file>kfaenza-mono/ontop.png</file>
+		<file>kfaenza-mono/open_favorites.png</file>
+		<file>kfaenza-mono/openfolder.png</file>
+		<file>kfaenza-mono/open_playlist.png</file>
+		<file>kfaenza-mono/open.png</file>
+		<file>kfaenza-mono/pause.png</file>
+		<file>kfaenza-mono/playlist.png</file>
+		<file>kfaenza-mono/play_pause.png</file>
+		<file>kfaenza-mono/play.png</file>
+		<file>kfaenza-mono/plus.png</file>
+		<file>kfaenza-mono/prefs.png</file>
+		<file>kfaenza-mono/previous.png</file>
+		<file>kfaenza-mono/refresh.png</file>
+		<file>kfaenza-mono/repeat.png</file>
+		<file>kfaenza-mono/rewind10m.png</file>
+		<file>kfaenza-mono/rewind10s.png</file>
+		<file>kfaenza-mono/rewind1m.png</file>
+		<file>kfaenza-mono/save.png</file>
+		<file>kfaenza-mono/screenshot.png</file>
+		<file>kfaenza-mono/shuffle.png</file>
+		<file>kfaenza-mono/stop.png</file>
+		<file>kfaenza-mono/up.png</file>
+		<file>kfaenza-mono/url_big.png</file>
+		<file>kfaenza-mono/url.png</file>
+		<file>kfaenza-mono/volume.png</file>
+	</qresource>
+</RCC>
